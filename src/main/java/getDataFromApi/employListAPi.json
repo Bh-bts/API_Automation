@@ -1,0 +1,17 @@
+{
+  "empNo" : null,
+  "regionID" : 0,
+  "hqCode" : 0,
+  "divisionCode" : "",
+  "status" : "",
+  "stateID" : 0,
+  "roleID" : 0,
+  "districtID" : 0,
+  "designationID" : 0,
+  "search" : "",
+  "currentPage" : 8,
+  "records" : 100,
+  "sortExpression" : "",
+  "sortDirection" : "",
+  "countryID" : 0
+}

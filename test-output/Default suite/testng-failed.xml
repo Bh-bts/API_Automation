@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="jsonschemaValidator.CommentsPost">
+      <class name="jsonschemaValidator.SingleUser">
         <methods>
-          <include name="commentPostval"/>
+          <include name="singleUser"/>
         </methods>
-      </class> <!-- jsonschemaValidator.CommentsPost -->
+      </class> <!-- jsonschemaValidator.SingleUser -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
